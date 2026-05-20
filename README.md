@@ -1,4 +1,4 @@
-# J-Calendar (学习通课程表版)
+# wyu-jcalendar (五邑大学课程表)
 
 > 本项目基于 [JADE-Jerry/jcalendar](https://github.com/JADE-Jerry/jcalendar) **1.1.9** 版本魔改而成，原作者保留所有权利。感谢原作者的开源贡献！
 
