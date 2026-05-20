@@ -148,7 +148,7 @@
 
 **获取 CK 步骤：**
 
-1. 手机安装 [Alook 浏览器](https://alookbrowser.com/)（iOS / Android 均可）
+1. 手机安装 [Alook 浏览器](https://www.alookweb.com/)（iOS / Android 均可）
 2. 打开 Alook，访问 [学习通网页版](https://passport.chaoxing.com/) 并登录
 3. 登录成功后，点击底部菜单 **工具箱** → **开发者工具** → **Cookies**
 4. 找到并复制完整的 Cookie 字符串（即 CK）
