@@ -6,9 +6,10 @@
 
 4.2 寸三色墨水屏低功耗月历，支持农历、天气、倒计日、课程表。**本版新增学习通（超星）Cookie 自动获取课程表**，适用于五邑大学及其他使用学习通的高校。
 
-<img width="500" alt="IMG_20260521_131854" src="https://github.com/user-attachments/assets/068ac876-f535-4335-a010-17483807510d" />
+<img width="500" height="500" alt="IMG_20260521_131854_compressed" src="https://github.com/user-attachments/assets/95135a73-062e-4125-8c6c-575384df0778" />
 <br>
-<img width="500" alt="IMG_20260521_131943" src="https://github.com/user-attachments/assets/33c28863-0b8e-446f-8d84-e62b541d04ae" />
+<img width="500" height="500" alt="IMG_20260521_131943_compressed" src="https://github.com/user-attachments/assets/a25043b0-b90e-41e8-b5e4-ebdc66ec4440" />
+
 
 
 
