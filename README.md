@@ -2,17 +2,15 @@
 
 ![License](https://img.shields.io/github/license/MYHealer/wyu-jcalendar) ![Release](https://img.shields.io/github/v/release/MYHealer/wyu-jcalendar)
 
-> 基于 [JADE-Jerry/jcalendar](https://github.com/JADE-Jerry/jcalendar) **1.1.9** 版本魔改，原作者保留所有权利。
+> 基于 [JADE-Jerry/jcalendar](https://github.com/JADE-Jerry/jcalendar) **1.1.9** 版本魔改，硬件引脚接线可以参考原作者项目，原作者保留所有权利。
 
 4.2 寸三色墨水屏低功耗月历，支持农历、天气、倒计日、课程表。**本版新增学习通（超星）Cookie 自动获取课程表**，适用于五邑大学及其他使用学习通的高校。
 
 <img src="./assets/img/sample1.png" width="60%"><br>
 <img src="./assets/img/sample2.png" width="60%"><br>
-
-
-
-
-
+作品演示抖音链接： https://v.douyin.com/ES37CGAHXoA//<br>
+原作者Bilibili链接：https://www.bilibili.com/video/BV1wHDhYoE3G/<br>
+注：可以去原作者B站链接学习制作后，然后更新刷入我魔改后的固件。
 
 ## 功能特性
 
